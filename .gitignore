@@ -29,30 +29,3 @@ node_modules
 
 # Ignore .DS_Store files on OS X
 .DS_Store
-
-# Ignore generated styles
-public/styles/site.min.css
-
-# Ignore angular libraries
-public/js/lib/angular*
-public/js/lib/hammerjs
-public/js/lib/bootstrap-material-design
-public/js/lib/jquery
-
-# Ignore mobile stuff
-mobile/platforms
-mobile/plugins
-mobile/hooks
-mobile/www/ang_bootm
-mobile/www/css
-mobile/www/styles
-mobile/www/images
-mobile/www/fonts
-mobile/www/img
-mobile/www/css
-mobile/www/index.html
-mobile/www/favicon.ico
-mobile/www/js/ang_bootm
-mobile/www/js/lib
-
-
